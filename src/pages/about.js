@@ -82,7 +82,7 @@ const About = () => (
             <div className="my-5">
               <img
                 className="img-fluid"
-                src="../studio1.jpg"
+                src="../studio_images/studio1.jpg"
                 alt="Image Description"
               />
             </div>      
