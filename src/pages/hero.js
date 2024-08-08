@@ -12,12 +12,12 @@ function Contact() {
 const Home = () => {
   const [bgIndex, setBgIndex] = useState(0);
   const backgrounds = [
-    '../studio2.jpg',
-    '../studio1.jpg',
-    '../studio.jpg',
-    '../studio5.jpg',
-    '../studio7.jpg',
-    '../studio8.jpg',
+    '../studio_images/studio2.jpg',
+    '../studio_images/studio1.jpg',
+    '../studio_images/studio.jpg',
+    '../studio_images/studio5.jpg',
+    '../studio_images/studio7.jpg',
+    '../studio_images/studio8.jpg',
 
   ];
 
